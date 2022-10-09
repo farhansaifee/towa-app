@@ -11,8 +11,8 @@
 }
 
 .card{
-    border: 1px solid white;
-    height: 15rem;
+    border: 1px solid rgb(10, 9, 9);
+    height: 18rem;
     width: 20rem;
-    background-color: black;
+    /* background-color: black; */
 }
