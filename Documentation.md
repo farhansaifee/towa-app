@@ -17,5 +17,20 @@ ng new towa-app
 ## Part B
 After setting up the project, the goal of Part B was to create the header, main & footer.
 
+I created the header, main and footer as new components:
+```js
+ng generate component header/footer/main
+```
+
+### header
+In the header I created 2 div-tags called leftSideItem & rightSideItem.
+In the leftSideItem I added the Angular logo from the internet and in the rightSideItem I added 3 navigation items.
+
+### main
+For this part, the main should remain empty. I still created a skeleton just for myslef (to have a better outlook), which I changed later on.
+
+### footer
+In the footer I created 3 column-div-tags. On the left is the logo, the navigation items are in the middle and on the right side is just the contact information with my name, number and address.
 
 ## Part C
+I already created the grid-layout in the parts before, but in this part i added the dummy data to the main section. I just need to change the dummy data to some real or scientific personas. I will most probably use professional football players.
