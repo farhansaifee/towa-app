@@ -1,6 +1,42 @@
 .mainFooterContainer{
     /* border: 1px solid black; */
-    height: 10vh;
+    /* height: 10vh; */
     width: 100%;
     background-color: gray;
+}
+
+.footer{
+    display: flex;
+    justify-content:space-between;
+    align-items:center;
+    flex-wrap:  wrap;
+}
+
+.footer img{
+    width: 5rem;
+    height: 80%;
+}
+
+.footer .column{
+    padding: 10px;
+}
+
+.footer .column2 ul{
+    display: flex;
+    justify-content:space-between;
+    align-items:center;
+    list-style: none;
+}
+
+.footer .column2 ul li{
+    margin: 5px;
+}
+
+.footer .column2 ul li:hover{
+    cursor: pointer;
+}
+
+.footer .column3{
+    display: flex;
+    flex-direction: column;
 }
