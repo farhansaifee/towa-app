@@ -34,3 +34,9 @@ In the footer I created 3 column-div-tags. On the left is the logo, the navigati
 
 ## Part C
 I already created the grid-layout in the parts before, but in this part i added the dummy data to the main section. I just need to change the dummy data to some real or scientific personas. I will most probably use professional football players.
+
+### cards
+Every card has an image, title, description/short text and a button which forwards the user to an external URL.
+
+### responsiveness
+To see if the website is responsive, inspect the page and click on "toggle device toolbar" to see how the design looks on a phone for example.
